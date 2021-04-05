@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dylan-Bollard
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My name is Dylan Bollard, I'm a graduate student at Portland State University
+- I'm interested in community development on GitHub and enjoy contributing when I can
+- I'm currently learning more about HTML/CSS/Stata for various projects
+- My research interests are in econometrics, energy, and environmental economics as well as statistics
+- 📫 Feel free to email me, or visit my personal site: https://www.dylan-bollard.me
 
 <!---
 Dylan-Bollard/Dylan-Bollard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
