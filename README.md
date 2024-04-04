@@ -1,4 +1,4 @@
-- My name is Dylan Bollard, I'm a graduate student at Portland State University
+- My name is Dylan Bollard, I'm an Acturial Analyst working in Pension Plan Deisgn and Valuation
 - I'm interested in community development on GitHub and enjoy contributing when I can
 - I'm currently learning more about HTML/CSS/Stata for various projects
 - My research interests are in econometrics, energy, and environmental economics as well as statistics
